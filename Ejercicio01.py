@@ -6,7 +6,7 @@
 """
 MiEdad = 25
 print(MiEdad)
-MiNombre = 'Juan'
+MiNombre = 'Pedro'
 print(MiNombre)
 MiPais = 'Argentina'
 print(MiPais)
